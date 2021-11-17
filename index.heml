@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>网页标题</title>
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/5.12.1/css/all.min.css">
+    <link rel="stylesheet" href="https://1797752637.github.io/course/style.css?v=2">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/Aplayer.min.css">
+</head>
+
+<body>
+    <div id="main" class="container">
+        <div class="row my-card justify-content-center">
+            <div class="col-lg-4 photo-bg"style="background-image: url(https://q1.qlogo.cn/g?b=qq&nk=2490281459&s=640);"></div>
+            <div class="col-lg-8 card">
+                <h1>Hi,我是xxx，这里是我的主页！</h1>
+                <p>很高兴您能访问我的网站！ 目前还是个学生，每天都在摸鱼。
+                </p>
+                <p>
+                    希望我的网站能给您提供帮助
+                </p>
+            
+                <footer>
+                    <p>copyright .</p>
+                </foote>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.staticfile.org/jqury/3.2.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/meting@1.2.0/dist/Meting.min.js"></script>
+</body>
+
+</html>
